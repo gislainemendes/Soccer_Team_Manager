@@ -1,0 +1,57 @@
+C:\Users\felip\Downloads\csharp-1\Source.Test\bin\Debug\netcoreapp2.2\JUnit.TestLogger.dll
+C:\Users\felip\Downloads\csharp-1\Source.Test\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\felip\Downloads\csharp-1\Source.Test\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\felip\Downloads\csharp-1\Source.Test\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\felip\Downloads\csharp-1\Source.Test\bin\Debug\netcoreapp2.2\Source.Test.deps.json
+C:\Users\felip\Downloads\csharp-1\Source.Test\bin\Debug\netcoreapp2.2\Source.Test.runtimeconfig.json
+C:\Users\felip\Downloads\csharp-1\Source.Test\bin\Debug\netcoreapp2.2\Source.Test.runtimeconfig.dev.json
+C:\Users\felip\Downloads\csharp-1\Source.Test\bin\Debug\netcoreapp2.2\Source.Test.dll
+C:\Users\felip\Downloads\csharp-1\Source.Test\bin\Debug\netcoreapp2.2\Source.Test.pdb
+C:\Users\felip\Downloads\csharp-1\Source.Test\bin\Debug\netcoreapp2.2\Source.dll
+C:\Users\felip\Downloads\csharp-1\Source.Test\bin\Debug\netcoreapp2.2\Source.pdb
+C:\Users\felip\Downloads\csharp-1\Source.Test\obj\Debug\netcoreapp2.2\Source.Test.csprojAssemblyReference.cache
+C:\Users\felip\Downloads\csharp-1\Source.Test\obj\Debug\netcoreapp2.2\Source.Test.csproj.CoreCompileInputs.cache
+C:\Users\felip\Downloads\csharp-1\Source.Test\obj\Debug\netcoreapp2.2\Source.Test.AssemblyInfoInputs.cache
+C:\Users\felip\Downloads\csharp-1\Source.Test\obj\Debug\netcoreapp2.2\Source.Test.AssemblyInfo.cs
+C:\Users\felip\Downloads\csharp-1\Source.Test\obj\Debug\netcoreapp2.2\Source.Test.csproj.CopyComplete
+C:\Users\felip\Downloads\csharp-1\Source.Test\obj\Debug\netcoreapp2.2\Source.Test.dll
+C:\Users\felip\Downloads\csharp-1\Source.Test\obj\Debug\netcoreapp2.2\Source.Test.pdb
+C:\Users\felip\Downloads\csharp-1\Source.Test\obj\Debug\netcoreapp2.2\Source.Test.genruntimeconfig.cache
+C:\Users\felip\Downloads\csharp-1 - Copia\Source.Test\bin\Debug\netcoreapp2.2\JUnit.TestLogger.dll
+C:\Users\felip\Downloads\csharp-1 - Copia\Source.Test\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\felip\Downloads\csharp-1 - Copia\Source.Test\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\felip\Downloads\csharp-1 - Copia\Source.Test\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\felip\Downloads\csharp-1 - Copia\Source.Test\bin\Debug\netcoreapp2.2\Source.Test.deps.json
+C:\Users\felip\Downloads\csharp-1 - Copia\Source.Test\bin\Debug\netcoreapp2.2\Source.Test.runtimeconfig.json
+C:\Users\felip\Downloads\csharp-1 - Copia\Source.Test\bin\Debug\netcoreapp2.2\Source.Test.runtimeconfig.dev.json
+C:\Users\felip\Downloads\csharp-1 - Copia\Source.Test\bin\Debug\netcoreapp2.2\Source.Test.dll
+C:\Users\felip\Downloads\csharp-1 - Copia\Source.Test\bin\Debug\netcoreapp2.2\Source.Test.pdb
+C:\Users\felip\Downloads\csharp-1 - Copia\Source.Test\bin\Debug\netcoreapp2.2\Source.dll
+C:\Users\felip\Downloads\csharp-1 - Copia\Source.Test\bin\Debug\netcoreapp2.2\Source.pdb
+C:\Users\felip\Downloads\csharp-1 - Copia\Source.Test\obj\Debug\netcoreapp2.2\Source.Test.csprojAssemblyReference.cache
+C:\Users\felip\Downloads\csharp-1 - Copia\Source.Test\obj\Debug\netcoreapp2.2\Source.Test.csproj.CoreCompileInputs.cache
+C:\Users\felip\Downloads\csharp-1 - Copia\Source.Test\obj\Debug\netcoreapp2.2\Source.Test.AssemblyInfoInputs.cache
+C:\Users\felip\Downloads\csharp-1 - Copia\Source.Test\obj\Debug\netcoreapp2.2\Source.Test.AssemblyInfo.cs
+C:\Users\felip\Downloads\csharp-1 - Copia\Source.Test\obj\Debug\netcoreapp2.2\Source.Test.csproj.CopyComplete
+C:\Users\felip\Downloads\csharp-1 - Copia\Source.Test\obj\Debug\netcoreapp2.2\Source.Test.dll
+C:\Users\felip\Downloads\csharp-1 - Copia\Source.Test\obj\Debug\netcoreapp2.2\Source.Test.pdb
+C:\Users\felip\Downloads\csharp-1 - Copia\Source.Test\obj\Debug\netcoreapp2.2\Source.Test.genruntimeconfig.cache
+C:\Users\gislaine\codenation\csharp-1\Source.Test\bin\Debug\netcoreapp2.2\JUnit.TestLogger.dll
+C:\Users\gislaine\codenation\csharp-1\Source.Test\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\gislaine\codenation\csharp-1\Source.Test\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\gislaine\codenation\csharp-1\Source.Test\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\gislaine\codenation\csharp-1\Source.Test\bin\Debug\netcoreapp2.2\Source.Test.deps.json
+C:\Users\gislaine\codenation\csharp-1\Source.Test\bin\Debug\netcoreapp2.2\Source.Test.runtimeconfig.json
+C:\Users\gislaine\codenation\csharp-1\Source.Test\bin\Debug\netcoreapp2.2\Source.Test.runtimeconfig.dev.json
+C:\Users\gislaine\codenation\csharp-1\Source.Test\bin\Debug\netcoreapp2.2\Source.Test.dll
+C:\Users\gislaine\codenation\csharp-1\Source.Test\bin\Debug\netcoreapp2.2\Source.Test.pdb
+C:\Users\gislaine\codenation\csharp-1\Source.Test\bin\Debug\netcoreapp2.2\Source.dll
+C:\Users\gislaine\codenation\csharp-1\Source.Test\bin\Debug\netcoreapp2.2\Source.pdb
+C:\Users\gislaine\codenation\csharp-1\Source.Test\obj\Debug\netcoreapp2.2\Source.Test.csprojAssemblyReference.cache
+C:\Users\gislaine\codenation\csharp-1\Source.Test\obj\Debug\netcoreapp2.2\Source.Test.csproj.CoreCompileInputs.cache
+C:\Users\gislaine\codenation\csharp-1\Source.Test\obj\Debug\netcoreapp2.2\Source.Test.AssemblyInfoInputs.cache
+C:\Users\gislaine\codenation\csharp-1\Source.Test\obj\Debug\netcoreapp2.2\Source.Test.AssemblyInfo.cs
+C:\Users\gislaine\codenation\csharp-1\Source.Test\obj\Debug\netcoreapp2.2\Source.Test.csproj.CopyComplete
+C:\Users\gislaine\codenation\csharp-1\Source.Test\obj\Debug\netcoreapp2.2\Source.Test.dll
+C:\Users\gislaine\codenation\csharp-1\Source.Test\obj\Debug\netcoreapp2.2\Source.Test.pdb
+C:\Users\gislaine\codenation\csharp-1\Source.Test\obj\Debug\netcoreapp2.2\Source.Test.genruntimeconfig.cache

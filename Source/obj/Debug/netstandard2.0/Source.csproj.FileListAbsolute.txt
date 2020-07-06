@@ -1,0 +1,27 @@
+C:\Users\felip\Downloads\csharp-1\Source\bin\Debug\netstandard2.0\Source.deps.json
+C:\Users\felip\Downloads\csharp-1\Source\bin\Debug\netstandard2.0\Source.dll
+C:\Users\felip\Downloads\csharp-1\Source\bin\Debug\netstandard2.0\Source.pdb
+C:\Users\felip\Downloads\csharp-1\Source\obj\Debug\netstandard2.0\Source.csprojAssemblyReference.cache
+C:\Users\felip\Downloads\csharp-1\Source\obj\Debug\netstandard2.0\Source.csproj.CoreCompileInputs.cache
+C:\Users\felip\Downloads\csharp-1\Source\obj\Debug\netstandard2.0\Source.AssemblyInfoInputs.cache
+C:\Users\felip\Downloads\csharp-1\Source\obj\Debug\netstandard2.0\Source.AssemblyInfo.cs
+C:\Users\felip\Downloads\csharp-1\Source\obj\Debug\netstandard2.0\Source.dll
+C:\Users\felip\Downloads\csharp-1\Source\obj\Debug\netstandard2.0\Source.pdb
+C:\Users\felip\Downloads\csharp-1 - Copia\Source\bin\Debug\netstandard2.0\Source.deps.json
+C:\Users\felip\Downloads\csharp-1 - Copia\Source\bin\Debug\netstandard2.0\Source.dll
+C:\Users\felip\Downloads\csharp-1 - Copia\Source\bin\Debug\netstandard2.0\Source.pdb
+C:\Users\felip\Downloads\csharp-1 - Copia\Source\obj\Debug\netstandard2.0\Source.csprojAssemblyReference.cache
+C:\Users\felip\Downloads\csharp-1 - Copia\Source\obj\Debug\netstandard2.0\Source.csproj.CoreCompileInputs.cache
+C:\Users\felip\Downloads\csharp-1 - Copia\Source\obj\Debug\netstandard2.0\Source.AssemblyInfoInputs.cache
+C:\Users\felip\Downloads\csharp-1 - Copia\Source\obj\Debug\netstandard2.0\Source.AssemblyInfo.cs
+C:\Users\felip\Downloads\csharp-1 - Copia\Source\obj\Debug\netstandard2.0\Source.dll
+C:\Users\felip\Downloads\csharp-1 - Copia\Source\obj\Debug\netstandard2.0\Source.pdb
+C:\Users\gislaine\codenation\csharp-1\Source\bin\Debug\netstandard2.0\Source.deps.json
+C:\Users\gislaine\codenation\csharp-1\Source\bin\Debug\netstandard2.0\Source.dll
+C:\Users\gislaine\codenation\csharp-1\Source\bin\Debug\netstandard2.0\Source.pdb
+C:\Users\gislaine\codenation\csharp-1\Source\obj\Debug\netstandard2.0\Source.csprojAssemblyReference.cache
+C:\Users\gislaine\codenation\csharp-1\Source\obj\Debug\netstandard2.0\Source.csproj.CoreCompileInputs.cache
+C:\Users\gislaine\codenation\csharp-1\Source\obj\Debug\netstandard2.0\Source.AssemblyInfoInputs.cache
+C:\Users\gislaine\codenation\csharp-1\Source\obj\Debug\netstandard2.0\Source.AssemblyInfo.cs
+C:\Users\gislaine\codenation\csharp-1\Source\obj\Debug\netstandard2.0\Source.dll
+C:\Users\gislaine\codenation\csharp-1\Source\obj\Debug\netstandard2.0\Source.pdb
